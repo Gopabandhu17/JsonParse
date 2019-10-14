@@ -1,0 +1,211 @@
+[
+  {
+    "Name" : "Requests",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "00000000-0000-0000-0000-000000000000",
+    "ChildCount" : 2,
+    "Id" : "091365c1-f4df-4e19-8369-0b0454cc4332"
+  },
+  {
+    "Name" : "Contacts",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "00000000-0000-0000-0000-000000000000",
+    "ChildCount" : 10,
+    "Id" : "327566ae-a329-4afa-b38f-b05be63778cf"
+  },
+  {
+    "Name" : "Pictures",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "00000000-0000-0000-0000-000000000000",
+    "ChildCount" : 0,
+    "Id" : "a3cf57ff-1324-4f67-8857-5f3b00d3e9dd"
+  },
+  {
+    "Name" : "Sent",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "091365c1-f4df-4e19-8369-0b0454cc4332",
+    "ChildCount" : 0,
+    "Id" : "4928c9e9-2a5c-4878-a31f-dac583c1c4ca"
+  },
+  {
+    "Name" : "Received",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "091365c1-f4df-4e19-8369-0b0454cc4332",
+    "ChildCount" : 0,
+    "Id" : "5a7289e2-dea8-4729-b409-4d0de7709b5c"
+  },
+  {
+    "Name" : "Casual",
+    "IsAvailable" : false,
+    "DisplayName" : "Casual123e",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "07175467-a3d2-420b-b9c2-aaa02f3faa52"
+  },
+  {
+    "Name" : "School",
+    "IsAvailable" : false,
+    "DisplayName" : "Schoolfcdgcdy",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "28e1f497-a8f5-4914-97e4-a4b1b4397a99"
+  },
+  {
+    "Name" : "Self",
+    "IsAvailable" : false,
+    "DisplayName" : "Selfsafdewf",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "2e681991-880b-4665-999b-c7b36a8e381e"
+  },
+  {
+    "Name" : "Testing",
+    "IsAvailable" : false,
+    "DisplayName" : "Testing1234",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 1,
+    "Id" : "30a6ecce-f9dd-406d-91b7-d6894c76a179"
+  },
+  {
+    "Name" : "Test1",
+    "IsAvailable" : false,
+    "DisplayName" : "Test1123sdfaefr",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "30a6ecce-f9dd-406d-91b7-d6894c76a179",
+    "ChildCount" : 0,
+    "Id" : "caf256d0-a502-4293-8569-8f4f0a2a81d0"
+  },
+  {
+    "Name" : "Merchants",
+    "IsAvailable" : false,
+    "DisplayName" : "Merchants1",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 2,
+    "Id" : "72132459-b233-458b-8f56-145d6c56989b"
+  },
+  {
+    "Name" : "Grocers",
+    "IsAvailable" : false,
+    "DisplayName" : "Grocers12",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "72132459-b233-458b-8f56-145d6c56989b",
+    "ChildCount" : 0,
+    "Id" : "2ab6e5c9-522d-4d70-a1c9-b63860f0ef0c"
+  },
+  {
+    "Name" : "Stylists",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "72132459-b233-458b-8f56-145d6c56989b",
+    "ChildCount" : 1,
+    "Id" : "f412a334-a34a-43d3-a2bd-5df55983c77b"
+  },
+  {
+    "Name" : "Temp",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "f412a334-a34a-43d3-a2bd-5df55983c77b",
+    "ChildCount" : 0,
+    "Id" : "347a25ae-1fd4-4492-98be-88e1ceeabc33"
+  },
+  {
+    "Name" : "Family",
+    "IsAvailable" : false,
+    "DisplayName" : "Family1gdgd",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "9175e1cf-4637-4123-884c-905dbb37f1d9"
+  },
+  {
+    "Name" : "Business",
+    "IsAvailable" : false,
+    "DisplayName" : "BusinessVodafone",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "979fa2af-a3af-4de6-ab63-c3e3dcbd7654"
+  },
+  {
+    "Name" : "Friends",
+    "IsAvailable" : false,
+    "DisplayName" : "",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "a7c81408-24a5-4122-afe4-555ac0957ee9"
+  },
+  {
+    "Name" : "Health",
+    "IsAvailable" : false,
+    "DisplayName" : "Healthshdvfhgsa",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "df148a86-489f-48af-83f2-c0d98ed77b9e"
+  },
+  {
+    "Name" : "Colleagues",
+    "IsAvailable" : false,
+    "DisplayName" : "Colleagues121",
+    "IsSys" : false,
+    "CurrentLevel" : 0,
+    "IsChecked" : false,
+    "Parent" : "327566ae-a329-4afa-b38f-b05be63778cf",
+    "ChildCount" : 0,
+    "Id" : "e08548e2-debe-4eb7-8807-39de1b3d2233"
+  }
+]
