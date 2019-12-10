@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -17,6 +17,13 @@
 		355F48D7235219EF00724D96 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 355F48D6235219EF00724D96 /* SwiftyJSON.framework */; };
 		3BB9869B56A3ADF92A27C9D2 /* Pods_JsonParse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85F4439EB1159ECA50C3F746 /* Pods_JsonParse.framework */; };
 		63FFDCEF9DAE43F330694FB1 /* Pods_JsonParseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DF709B8064709F252970CE1D /* Pods_JsonParseTests.framework */; };
+		B58A55D8239F918F00DDC664 /* CellTblChildSecondStage.xib in Resources */ = {isa = PBXBuildFile; fileRef = B58A55D7239F918F00DDC664 /* CellTblChildSecondStage.xib */; };
+		B58A55DA239F91C400DDC664 /* CellTblChildThirdStage.xib in Resources */ = {isa = PBXBuildFile; fileRef = B58A55D9239F91C400DDC664 /* CellTblChildThirdStage.xib */; };
+		B58A55DC239F923100DDC664 /* CellTblChildSecondStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58A55DB239F923100DDC664 /* CellTblChildSecondStage.swift */; };
+		B58A55DE239F925100DDC664 /* CellTblChildThirdStage.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58A55DD239F925100DDC664 /* CellTblChildThirdStage.swift */; };
+		B59F3018239E2B1E00B06645 /* ExpendableTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59F3017239E2B1E00B06645 /* ExpendableTableVC.swift */; };
+		B59F301A239E2C2000B06645 /* CellTblVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = B59F3019239E2C2000B06645 /* CellTblVC.xib */; };
+		B59F301C239E2CDD00B06645 /* CellTblVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B59F301B239E2CDD00B06645 /* CellTblVC.swift */; };
 		CF0209820742B85DCADB4CA6 /* Pods_JsonParseUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3D040B389B11501F652A37B /* Pods_JsonParseUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -59,6 +66,13 @@
 		85F4439EB1159ECA50C3F746 /* Pods_JsonParse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JsonParse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3D040B389B11501F652A37B /* Pods_JsonParseUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JsonParseUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE8CD55F15FD8A88DA4842EE /* Pods-JsonParse.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JsonParse.release.xcconfig"; path = "Target Support Files/Pods-JsonParse/Pods-JsonParse.release.xcconfig"; sourceTree = "<group>"; };
+		B58A55D7239F918F00DDC664 /* CellTblChildSecondStage.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellTblChildSecondStage.xib; sourceTree = "<group>"; };
+		B58A55D9239F91C400DDC664 /* CellTblChildThirdStage.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellTblChildThirdStage.xib; sourceTree = "<group>"; };
+		B58A55DB239F923100DDC664 /* CellTblChildSecondStage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTblChildSecondStage.swift; sourceTree = "<group>"; };
+		B58A55DD239F925100DDC664 /* CellTblChildThirdStage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTblChildThirdStage.swift; sourceTree = "<group>"; };
+		B59F3017239E2B1E00B06645 /* ExpendableTableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpendableTableVC.swift; sourceTree = "<group>"; };
+		B59F3019239E2C2000B06645 /* CellTblVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CellTblVC.xib; sourceTree = "<group>"; };
+		B59F301B239E2CDD00B06645 /* CellTblVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellTblVC.swift; sourceTree = "<group>"; };
 		BB5B4EAB26FF2FA3734B5830 /* Pods-JsonParseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JsonParseTests.debug.xcconfig"; path = "Target Support Files/Pods-JsonParseTests/Pods-JsonParseTests.debug.xcconfig"; sourceTree = "<group>"; };
 		DF709B8064709F252970CE1D /* Pods_JsonParseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JsonParseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB506B7C1E3DE0324B4D3980 /* Pods-JsonParseUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JsonParseUITests.debug.xcconfig"; path = "Target Support Files/Pods-JsonParseUITests/Pods-JsonParseUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -134,10 +148,17 @@
 			children = (
 				355F48A82352196700724D96 /* AppDelegate.swift */,
 				355F48AA2352196700724D96 /* ViewController.swift */,
+				B59F3017239E2B1E00B06645 /* ExpendableTableVC.swift */,
+				B58A55DB239F923100DDC664 /* CellTblChildSecondStage.swift */,
+				B58A55DD239F925100DDC664 /* CellTblChildThirdStage.swift */,
+				B59F301B239E2CDD00B06645 /* CellTblVC.swift */,
+				B59F3019239E2C2000B06645 /* CellTblVC.xib */,
 				355F48AC2352196700724D96 /* Main.storyboard */,
 				355F48AF2352196A00724D96 /* Assets.xcassets */,
 				355F48B12352196A00724D96 /* LaunchScreen.storyboard */,
 				355F48B42352196A00724D96 /* Info.plist */,
+				B58A55D7239F918F00DDC664 /* CellTblChildSecondStage.xib */,
+				B58A55D9239F91C400DDC664 /* CellTblChildThirdStage.xib */,
 			);
 			path = JsonParse;
 			sourceTree = "<group>";
@@ -280,6 +301,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				355F48B32352196A00724D96 /* LaunchScreen.storyboard in Resources */,
+				B59F301A239E2C2000B06645 /* CellTblVC.xib in Resources */,
+				B58A55DA239F91C400DDC664 /* CellTblChildThirdStage.xib in Resources */,
+				B58A55D8239F918F00DDC664 /* CellTblChildSecondStage.xib in Resources */,
 				355F48B02352196A00724D96 /* Assets.xcassets in Resources */,
 				355F48AE2352196700724D96 /* Main.storyboard in Resources */,
 			);
@@ -352,16 +376,11 @@
 			files = (
 			);
 			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-JsonParse/Pods-JsonParse-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+				"${PODS_ROOT}/Target Support Files/Pods-JsonParse/Pods-JsonParse-frameworks-${CONFIGURATION}-input-files.xcfilelist",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
-			);
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+				"${PODS_ROOT}/Target Support Files/Pods-JsonParse/Pods-JsonParse-frameworks-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -398,6 +417,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				355F48AB2352196700724D96 /* ViewController.swift in Sources */,
+				B58A55DC239F923100DDC664 /* CellTblChildSecondStage.swift in Sources */,
+				B59F301C239E2CDD00B06645 /* CellTblVC.swift in Sources */,
+				B59F3018239E2B1E00B06645 /* ExpendableTableVC.swift in Sources */,
+				B58A55DE239F925100DDC664 /* CellTblChildThirdStage.swift in Sources */,
 				355F48A92352196700724D96 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
